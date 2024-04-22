@@ -1,5 +1,5 @@
 # Prova-10 -Tkinter
-Sistema de login, com restrições de senhas e emaiçl
+Sistema de login, com restrições de senhas e email
 
 **Ferramenta e linguagem usadas**
 
